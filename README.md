@@ -15,6 +15,8 @@ FAMST constructs an approximate MST from a dataset in four stages:
      of its endpoints until no further improvement is possible.
   4. **MST extraction**: Run Kruskal's algorithm on the union of the kNN graph
      edges and the refined bridge edges.
+     
+![FAMST demo](demo.gif)  
 
 References
 ----------
