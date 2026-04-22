@@ -1,5 +1,6 @@
 # FAMST: Fast Approximate Minimum Spanning Tree
 =============================================
+
 Python library for building approximate minimum spanning trees on large, high-dimensional datasets. 
 
 FAMST constructs an approximate MST from a dataset in four stages:
